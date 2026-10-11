@@ -3,6 +3,21 @@ README — How to Adapt This Mount to Your Waterblock
 
 This 3D-printable mount was designed for the cable-free (non-Wired), Normal-orientation Thermal Grizzly WireView Pro II. It allows the WireView to be mounted beside a vertically installed graphics card fitted with a GPU waterblock.
 
+
+MOUNTING PRINCIPLE AND DESIGN
+
+The idea behind this mount is to make use of the empty space along the edge of the GPU, between the front acrylic (plexiglass) section of the waterblock and the GPU PCB. In this area, the acrylic section and the PCB are separated by a gap, with mounting spacers located near the top and bottom.
+
+The mount is 3D-printed as a single piece, but consists of two functional sections:
+
+    A hollow cradle into which the WireView Pro II clips. Its design keeps the side button accessible, leaves the cable connections on the underside unobstructed, and provides access to the GPU power connector on the rear of the WireView.
+
+    A vertical mounting bar with two hooks, one at the top and one at the bottom. These hooks engage with the waterblock's existing spacers, using them as mounting points without requiring additional holes or modifications to the waterblock.
+
+Since the WireView Pro II is positioned away from the GPU power connector, a 12V-2x6 bridgeless extension cable is required between the graphics card's power connector and the rear connector of the WireView Pro II. MODDIY makes that.
+
+Using a bridgeless extension is important because the individual 12V power lines must remain electrically separate between the WireView and the GPU. An extension with electrical bridges between these lines could redistribute the current and distort the WireView Pro II's individual current measurements. A properly wired bridgeless extension preserves the individual current paths, allowing the WireView Pro II to monitor them as it would when connected directly to the graphics card, although the extension introduces additional electrical connections.
+
 The original mount was designed and physically tested with the Alphacool Core GeForce RTX 5090 waterblock for MSI Suprim X / Vanguard (Alphacool article 10268).
 
 
