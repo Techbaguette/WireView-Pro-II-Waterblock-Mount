@@ -1,6 +1,6 @@
 # WireView Pro II GPU Waterblock Mount
 
-![WireView Pro II installed on GPU waterblock](20261002_100705)
+<img width="3000" height="4000" alt="20261002_100705" src="https://github.com/user-attachments/assets/cbefe27e-a970-49ae-95d3-86dd35ca3410" />
 
 A custom 3D-printable mounting bracket designed to install the **Thermal Grizzly WireView Pro II (Normal, non-Wired version)** next to a vertically mounted GPU using a PCIe riser.
 
