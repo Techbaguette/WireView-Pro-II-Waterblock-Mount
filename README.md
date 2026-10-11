@@ -45,3 +45,9 @@ This is an independent, community-made project and is not affiliated with or end
 The files are shared for free. If you find this project useful and would like to support my work, you can optionally [buy me a coffee](https://buymeacoffee.com/techbaguette).
 
 Thank you, and enjoy your build!
+
+---
+
+### Download the 3D printing files
+
+**[⬇ Download all files (ZIP)](https://github.com/Techbaguette/WireView-Pro-II-Waterblock-Mount/archive/refs/heads/main.zip)**
